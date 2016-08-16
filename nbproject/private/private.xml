@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ImageDisplay.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/ImageObj.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/AgentManager.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/Area.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/Block.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/Customer.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/CustomerManager.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/DataManager.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/ExcelExporter.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/Property.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/PropertyCharacteristic.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/PropertyFilter.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/PropertyManager.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/PropertyService.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/PropertyType.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/SecurityAlgorithm.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/User.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/business_logic_layer/Validations.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/data_access_layer/DAL.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/AddCustomer.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/AddProperty.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/AddPropertySubDetails.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/DialogBox.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/LoginPage.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/MainScreen.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ManageCustomer.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ManageProperty.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ManageSales.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/PerformSale.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/Sales.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/UpdateCustomer.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/UpdatePassword.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/UpdateProperty.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/UpdatePropertySubDetails.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ViewCustomers.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ViewPropertyDetails.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ViewPropertyForOwner.java</file>
+            <file>file:/D:/FAST%20University/Semesters/8th%20Semester/SQA/Project/UAgency%20Material/Code/SQAProject/src/agent/user_interface_layer/ViewPropertyForViewer.java</file>
+        </group>
+    </open-files>
+</project-private>
